@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>eas_sales_export</name>
+    <displayName><![CDATA[Easytis - Export des ventes]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Module permettant l&#039;export de ventes, sur une p&eacute;riode d&eacute;finie, au format .csv ]]></description>
+    <author><![CDATA[Klorel]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
